@@ -25,7 +25,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,flask,nodejs,express,postgres,mysql,git,github,vscode,gcp,linux" />
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -53,24 +53,12 @@ Console-based Python food ordering app modeled on Swiggy/Zomato.
 </tr>
 <tr>
 <td width="50%">
-
-
-**🎫 IT Helpdesk Ticketing System**
-Ticketing system mockup with PostgreSQL schema and Express backend.
-`Node.js` `Express` `PostgreSQL`
-[🔗 View Repo](https://github.com/Dharshan-Arul/IT-Helpdesk-System)
-
-</td>
-</tr>
-</table>
-
 ---
 
 ### 🏆 Certifications
 
 - Infosys Springboard — Python Foundation, Clean Coding
 - NASSCOM FutureSkills Prime — IoT & Digital Transformation (Gold)
-- Google Cloud Skills Boost Arcade — Base Camp 2026
 - JPMorgan Chase Forage — Software Engineering Virtual Experience
 - Tata Group — Gen AI Virtual Experience
 
