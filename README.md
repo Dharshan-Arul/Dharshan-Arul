@@ -15,12 +15,10 @@
 
 ### 🚀 About Me
 
-- 🎓 2nd-year **B.E. CCE** student at V.S.B Engineering College, Karur, Tamil Nadu (Batch of 2028)
-- 💻 Focused on **Core Java, DSA, and Full-Stack Development** for on-campus placements
+- 🎓 3rd-year **B.E. CCE** student at V.S.B Engineering College, Karur, Tamil Nadu (Batch of 2028)
+- 💻 Focused on **python,Core Java, DSA, and software Development** for on-campus placements
 - 🌱 Currently building projects for **Smart India Hackathon 2026**
-- 📈 Exploring **Forex market structure & Smart Money Concepts** as a side interest
-- 🏏 Inter-college cricket champion
-- ⚡ Fun fact: I go by "Jarvis" when I'm deep in build mode
+- 📈 Exploring **Forex market ** as a side interest
 
 ---
 
@@ -56,13 +54,6 @@ Console-based Python food ordering app modeled on Swiggy/Zomato.
 <tr>
 <td width="50%">
 
-**📚 Nabha Vidya — Digital Learning Platform**
-A learning platform with interactive quizzes for rural school students.
-`HTML` `CSS` `JavaScript`
-[🔗 View Repo](https://github.com/Dharshan-Arul/Nabha-Vidya)
-
-</td>
-<td width="50%">
 
 **🎫 IT Helpdesk Ticketing System**
 Ticketing system mockup with PostgreSQL schema and Express backend.
